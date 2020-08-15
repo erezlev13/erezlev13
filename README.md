@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**erezlev13/erezlev13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on self projects in Moblie applications field, and building websites with Python.
+
+- 🌱 I’m currently learning Computer Science, at MTA, Israel. Currently on .NET/C# course.
+
+- 💬 Ask me about C++, Android Development. You can also ask about NBA, snowboard.
+
+- 📫 How to reach me:
+      Email: erezlev1994@gmail.com
+      Linkedin: https://www.linkedin.com/in/erez-lev/
+      Instagram: Erez Lev / erez.lev
+      Facebook: Erez Lev
+
+- ⚡ Fun fact: On my free time i like to snownoarding (on winter season), be active: running, swimming, basketball. 
+
