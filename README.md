@@ -14,5 +14,5 @@ Here are some ideas to get you started:
       Instagram: Erez Lev / erez.lev
       Facebook: Erez Lev
 
-- ⚡ Fun fact: On my free time i like to snownoarding (on winter season), be active: running, swimming, basketball. 
+- ⚡ Fun fact: On my free time I like to snownoarding (on winter season), and be active: running, swimming, basketball. 
 
