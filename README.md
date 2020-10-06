@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on self projects in Moblie applications field, and building websites with Python.
 
-- 🌱 I’m currently learning Computer Science, at MTA, Israel. Currently on .NET/C# course.
+- 🌱 I’m currently studying Computer Science, at MTA, Israel. Currently on .NET/C# course.
 
 - 💬 Ask me about C++, Android Development. You can also ask about NBA, snowboard.
 
